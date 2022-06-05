@@ -2,6 +2,7 @@
     font-family: 'Raleway', 'lato', sans-serif;
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 .container-wrapper {
@@ -17,7 +18,7 @@
 
 .left-side {
     display: flex;
-    margin-left: 200px;
+    margin-left: 150px;
 }
 
 .nav-img-wrapper {
