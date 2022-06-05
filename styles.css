@@ -48,12 +48,12 @@
 
 .right-side ul {
     display: flex;
-    margin-right: 100px;
+    margin-right: 150px;
     margin-top: 15px;
 }
 
 .right-side li {
-    margin-right: 50px;
+    padding: 50px;
     list-style: none;
 }
 
