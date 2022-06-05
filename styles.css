@@ -18,7 +18,7 @@
 
 .left-side {
     display: flex;
-    margin-left: 150px;
+    margin-left: 200px;
 }
 
 .nav-img-wrapper {
@@ -39,7 +39,7 @@
 }
 
 .exams-div {
-    font-size: 1em;
+    font-size: 16px;
     font-family: 'lato', sans-serif;
     font-weight: normal;
     letter-spacing: 1px;
@@ -52,12 +52,12 @@
 }
 
 .right-side li {
-    margin-right: 60px;
+    margin-right: 50px;
     list-style: none;
 }
 
 .right-side ul li a {
-    font-size: 1em;
+    font-size: 16px;
     color: black;
     text-decoration: none;
     font-family: 'lato', sans-serif;
