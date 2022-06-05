@@ -43,6 +43,7 @@
     font-family: 'lato', sans-serif;
     font-weight: normal;
     letter-spacing: 1px;
+    opacity: 0.7;
 }
 
 .right-side ul {
@@ -61,6 +62,7 @@
     color: black;
     text-decoration: none;
     font-family: 'lato', sans-serif;
+    opacity: 0.7;
 }
 
 .right-side a:hover {
