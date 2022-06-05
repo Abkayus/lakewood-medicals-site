@@ -18,7 +18,7 @@
 
 .left-side {
     display: flex;
-    margin-left: 150px;
+    margin-left: 100px;
 }
 
 .nav-img-wrapper {
@@ -38,7 +38,7 @@
     text-decoration: none;
 }
 
-.nav-link-wrapper div {
+.exams-div {
     font-size: 1em;
     font-family: 'lato', sans-serif;
     font-weight: normal;
